@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610140165081",
+    "project_id": "taxi-30213",
+    "storage_bucket": "taxi-30213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610140165081:android:ef13675374095194a3ffc8",
+        "android_client_info": {
+          "package_name": "com.bootspider.ttaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610140165081-vvl5ago4ennudqd5d2sseul97u8b00me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeSUItBZ7_vLdeXX4ZYcGDb8ynumGh6tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610140165081-vvl5ago4ennudqd5d2sseul97u8b00me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
